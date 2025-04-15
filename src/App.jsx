@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Auth from "./components/Auth";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import TaskForm from "./components/TaskForm";
 import TaskList from "./components/TaskList";
 import Profile from "./components/Profile";
