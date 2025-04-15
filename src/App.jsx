@@ -3,7 +3,7 @@ import Auth from "./components/Auth";
 import Navbar from "./components/Navbar";
 import TaskForm from "./components/TaskForm";
 import TaskList from "./components/TaskList";
-import Profile from "./components/Profile";
+import Profile from "./components/profile";
 
 function App() {
   const [user, setUser] = useState(localStorage.getItem("user") || "");
